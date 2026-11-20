@@ -25,7 +25,8 @@ Unit Kegiatan Mahasiswa (UKM) kampus membuka kegiatan setiap semester, antara la
 |---|---|---|
 | `01_usecase` | [`UTS_2406088_SIUKM_usecase_v01.drawio`](01_usecase/UTS_2406088_SIUKM_usecase_v01.drawio) | Sumber Use Case Diagram (draw.io) |
 | `01_usecase` | [`UTS_2406088_SIUKM_usecase_v01.png`](01_usecase/UTS_2406088_SIUKM_usecase_v01.png) | Pratinjau Use Case Diagram |
-| `02_skenario` | [`UTS_2406088_SIUKM_skenario_v01.drawio`](02_skenario/UTS_2406088_SIUKM_skenario_v01.drawio) | Tabel Use Case Skenario UC02 |
+| `02_skenario` | [`UTS_2406088_SIUKM_skenario_v01.drawio`](02_skenario/UTS_2406088_SIUKM_skenario_v01.drawio) | Sumber Tabel Use Case Skenario UC02 (draw.io) |
+| `02_skenario` | [`UTS_2406088_SIUKM_skenario_v01.jpg`](02_skenario/UTS_2406088_SIUKM_skenario_v01.jpg) | Hasil ekspor Tabel Skenario (JPG) |
 | `03_activity` | [`UTS_2406088_SIUKM_activity_v01.drawio`](03_activity/UTS_2406088_SIUKM_activity_v01.drawio) | Sumber Activity Diagram (draw.io) |
 | `03_activity` | [`UTS_2406088_SIUKM_activity_v01.png`](03_activity/UTS_2406088_SIUKM_activity_v01.png) | Pratinjau Activity Diagram |
 
@@ -47,7 +48,8 @@ Unit Kegiatan Mahasiswa (UKM) kampus membuka kegiatan setiap semester, antara la
 | 12 | Tugas 3: include sebagai satu action | Node A5 `«include» Periksa Kuota Peserta` |
 | 13 | Tugas 3: konsisten dengan tabel skenario | Tabel pemetaan langkah → node di bawah |
 | 14 | Pengumpulan: repo publik, tiga folder, README | Repo publik dengan struktur sesuai |
-| 15 | Identitas nama, NIM, kelas pada setiap berkas | Tertera pada judul/subjudul semua artefak |
+| 15 | Identitas nama, NIM, kelas pada setiap berkas | Tertera pada judul/subjudul semua artefak, termasuk JPG skenario |
+| 16 | Pratinjau tabel skenario sebagai gambar | `UTS_2406088_SIUKM_skenario_v01.jpg` (1000×1462) |
 
 ---
 
@@ -117,6 +119,8 @@ Pada diagram, kedua relasi extend memakai callout ringkas `«extend» [mencetak]
 ---
 
 ## Tugas 2 — Use Case Skenario
+
+![Tabel Skenario UC02 Daftar Kegiatan](02_skenario/UTS_2406088_SIUKM_skenario_v01.jpg)
 
 Use case yang dipilih: **UC02 Daftar Kegiatan**.
 
